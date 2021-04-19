@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTagTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mboldTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the native markdown bold tag to html bold tag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mitalicTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the native markdown italic tag to html italic tag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32munderlineTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the native markdown underline tag to html underline tag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnewLineTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the newlines to html newLine tag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mimageTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the native markdown image tag to html image tag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mimageTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should use the url attribute without extension part for the alt attribute if alt attribute is omitted[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlinkTag convert method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully convert the native markdown link tag to the html link tag[0m[0m
