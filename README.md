@@ -1,0 +1,1 @@
+Developed a native markdown language (NNML) to HTML conversion tool to secure text input in web applications. Implemented in Scala and covered with unit tests. Specialized classes for tag conversion, encoded special characters in URLs and alt attributes, and sequentially processed tags to generate compliant HTML outputs.
